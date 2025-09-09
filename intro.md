@@ -17,3 +17,4 @@ Your science officer, Dr. Kim, looks up from her console. "Captain, we have enou
 The weight of the decision rests on your shoulders. Your crew of twelve depends on you to choose wisely.
 
 What do you decide to do next?
+- [Try to contact Earth for help](earth.md)
