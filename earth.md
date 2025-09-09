@@ -15,3 +15,7 @@ Dr. Kim looks up from her console with a puzzled expression. "Captain, I'm detec
 Before you can respond, your communications officer, Lieutenant Torres, calls out: "Captain! I'm receiving multiple signals - one from Earth Command, but also three separate transmissions coming from the planets below. The signals from the planets arrived almost instantly, which should be impossible given the distance."
 
 What do you do next?
+- [Try contact Earth Command one more time](earth-command.md)
+- [Set course for the Ocean Planet](ocean.md)
+- [Set course for Sand Planet](sand-planet.md)
+- [Set course for the Cloud Planet](cloud-planet.md)
