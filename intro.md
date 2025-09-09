@@ -19,3 +19,7 @@ The weight of the decision rests on your shoulders. Your crew of twelve depends 
 What do you decide to do next?
 
 - [Set course for the Ocean Planet](ocean.md)
+-
+-
+- [Try to contact Earth for help](earth.md)
+
