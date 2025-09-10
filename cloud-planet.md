@@ -15,3 +15,6 @@ Dr. Kim studies her readings.
 “Captain, I’m detecting strong energy emissions from one of the crystal fields. That might be the source of the strange signals. It could be dangerous… but it might also be exactly what we need to refuel.”
 
 The crew looks to you, waiting for your decision.
+
+- [Investigate the crystal formations](cloud-crystals.md)  
+- [Explore the twisted vegetation](cloud-vegetation.md)
