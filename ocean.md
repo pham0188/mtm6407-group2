@@ -8,5 +8,5 @@ The crew watches in silence. Relief mixes with unease: the Ocean Planet may be a
 
 What do you decide?  
 
-- [Land on the largest island](island.md)
-- [Hold position in orbit and scan the oceans for signs of life](scan.md) 
+- [Land on the largest island](ocean-island.md)
+- [Hold position in orbit and scan the oceans for signs of life](ocean-scan.md) 

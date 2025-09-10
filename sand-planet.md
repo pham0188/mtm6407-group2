@@ -8,3 +8,8 @@ Dr. Kim squints through her scanner.
 “Captain… these structures aren’t natural. Some of them are still generating energy.”
 
 You feel the heat pressing in, the sand shifting underfoot, and the weight of your crew’s expectations. The desert seems alive, waiting for your decision.
+
+What will you do?
+
+- [Investigate the half-buried machines](sand-machines.md)  
+- [Follow the pulsing hum into the desert](sand-desert-hum.md)  
