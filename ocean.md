@@ -9,8 +9,12 @@ Dr. Kim frowns at her console.
 
 The crew shifts uneasily. This planet may hold salvation—or something waiting in the depths.
 
+
 What do you decide?
 
 - [Land on one of the Emerald Islands](ocean-island.md)
 - [Send a probe Beneath the Waves](ocean-scan.md)
 - [Skim the Storm Clouds](ocean-storm.md)
+- [Land on the largest island](ocean-island.md)
+- [Hold position in orbit and scan the oceans for signs of life](ocean-scan.md) 
+
